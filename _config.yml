@@ -4,17 +4,17 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Entropy Education
 # description: This will be meta HTML tag content. This can be ignored.
-description: Website built with Jekyll
+description: An education and counseling firm for the students, by the students. 
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Entropy 
+username: Entropy Education 
 # typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Education
-typing_text: Education 
+# > 
+typing_text: For the students, by the students.  
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
@@ -23,8 +23,8 @@ email: email@example.com
 github_username: 
 codepen_username: 
 dev_username:
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: 
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -40,9 +40,9 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false 
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Admission
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -59,7 +59,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false 
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: 
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

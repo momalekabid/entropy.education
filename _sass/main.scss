@@ -393,11 +393,11 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
+    color: $text-color;
   }
 
   div[skill-type="framework"] {
-    color: #ff847c;
+    color: $text-color;
   }
 
   div[skill-type="tool"] {
