@@ -2,14 +2,16 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 /* Variables */
 
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
+$font-family: 'Oxygen', sans-serif; 
 $font-family-numbers: "Josefin Sans", sans-serif;
+$font-family-body: 'Raleway Dots', cursive; 
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
@@ -37,8 +39,8 @@ html {
 
 body {
   height: 100%;
+  font-family: $font-family;
 }
-
 /* Typography */
 
 h1 {
