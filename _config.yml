@@ -16,7 +16,7 @@ username: Entropy Education
 # > 
 typing_text: For the students, by the students.  
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email:
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -32,7 +32,7 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Us 
+about_me_title: Our mission.  
 # about_me_description: This will be displayed under the title.
 about_me_description: text goes here.  
 # SKILLS SECTION
@@ -49,7 +49,7 @@ skills_title: Admission
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true 
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: team 
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -78,7 +78,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true 
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Meet the team. 
 # contact_description: This will be displayed under the title.
 contact_description:  Reach out to us at [], [], [] .
 

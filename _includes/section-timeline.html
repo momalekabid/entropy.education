@@ -1,11 +1,7 @@
-<h1 class="title">{{site.timeline_title}}</h1>
+<h1 class="title">our team and services.<h1>
 <p class="subtitle">
-  For more information, have a look at my
-  <a class="highlight-link" href="{{site.cv_download_link}}" target="_blank" rel="noreferrer">
-    curriculum vitae
-  </a>.
+At Entropy, we believe in connecting our clients with our network of top students, carefully curated from a diverse range of world-class universities. Through exploration in the form of face to face meetings with students in our network, you will discover possibilities and obtain a great deal of information. 
 </p>
-
 <div class="timeline-wrapper">
   <ul class="timeline">
     {% for event in site.data.timeline %}
@@ -23,7 +19,7 @@
                 <span class="time neumorphism-card">{{event.date}}</span>
               </span>
             </div>
-            <div class="desc neumorphism-card" data-aos="zoom-in-right">
+            <div class="desc neumorphism-card" style="font-size: 20px" data-aos="zoom-in-right">
               {{event.subtitle}}
               {% if event.tags %}
                 <div class="tag-wrapper">
@@ -47,11 +43,8 @@
                   <span>{{event.title}}</span>
                 </a>
               </span>
-              <span class="time-wrapper" data-aos="zoom-in-left">
-                <span class="time neumorphism-card">{{event.date}}</span>
-              </span>
             </div>
-            <div class="desc neumorphism-card" data-aos="zoom-in-left">
+            <div class="desc neumorphism-card" style="font-size: 20px" data-aos="zoom-in-left">
               {{event.subtitle}}
               {% if event.tags %}
                 <div class="tag-wrapper">
