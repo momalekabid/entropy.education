@@ -28,6 +28,7 @@ $primary-color: #0092FF;
 /* General */
 
 html {
+  scroll-behavior: smooth;
   background: $bg-color;
   color: $text-color;
   font-family: $font-family;
@@ -51,8 +52,18 @@ h1 {
 
 p {
   word-spacing: 0.1rem;
+  text-align: left;
+  font-size: 1.15rem;
 }
-
+.blue {
+color :$primary-color;
+}
+img {
+  border-radius: 45%;
+  height: 304.8px;
+  width: 506.8px;
+  object-fit: contain;
+}
 a {
   color: $primary-color;
   text-decoration: none;

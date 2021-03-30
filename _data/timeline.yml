@@ -7,30 +7,26 @@
 
 
 - title: discover. 
-  title-url: https://example.com/
+  title-url: /#discover
   subtitle: Connect with our network of top students, carefully curated from a diverse range of world-class universities.
   tags:
-   - tag: 9-12
   timeline-side: left 
 
 - title: design. 
-  title-url: https://google.com
-  subtitle: Design your college admissions journey. 
+  title-url: /#design
+  subtitle: Design your college admissions journey and explore your passions. 
   tags:
-    - tag: 9-10 
   timeline-side: right
 
 - title: dream. 
-  title-url: https://example.com/
-  subtitle: Build your dream -- and then your dream school. 
+  title-url: /#dream 
+  subtitle: Build your dream -- and find your dream schools. 
   tags:
-    - tag: 10-11
   timeline-side: left
 
 - title: determine. 
-  title-url: https://example.com/
+  title-url: /#determine 
   subtitle: Our flagship counseling service. 
   tags:
-    - tag: 11-12 
   timeline-side: right
 
