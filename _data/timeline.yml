@@ -6,25 +6,25 @@
 # > timeline-side: The side on which you want to display the entry: left or right
 
 
-- title: discover. 
+- title: Discover 
   title-url: /#discover
   subtitle: Connect with our network of top students, carefully curated from a diverse range of world-class universities.
   tags:
   timeline-side: left 
 
-- title: design. 
+- title: Design 
   title-url: /#design
   subtitle: Design your college admissions journey and explore your passions. 
   tags:
   timeline-side: right
 
-- title: dream. 
+- title: Dream 
   title-url: /#dream 
-  subtitle: Build your dream -- and find your dream schools. 
+  subtitle: Build your dream -- and discover your dream schools. 
   tags:
   timeline-side: left
 
-- title: determine. 
+- title: Determine 
   title-url: /#determine 
   subtitle: Our flagship counseling service. 
   tags:
