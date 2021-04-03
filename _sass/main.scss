@@ -60,9 +60,12 @@ color :$primary-color;
 }
 img {
   border-radius: 45%;
-  height: 304.8px;
-  width: 506.8px;
-  object-fit: contain;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+
 }
 a {
   color: $primary-color;
