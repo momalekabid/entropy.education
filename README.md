@@ -1,1 +1,2 @@
-Website for an educational/counseling firm.
+Website for an educational and counseling firm I run.
+https://entropy.education
